@@ -1,14 +1,48 @@
 .footer {
     position: absolute;
     bottom: 0;
-    height: 100px;
+    /* height: 100px; */
     width: 100%;
     background-color: lightgray;
 }
 
 .container {
-    width: auto;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.footer-item {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.icon-container {
+    display: inline-block;
+    /* background: #99ccff; */
+    background: darkgray;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+    transition: 0.25s;
+}
+
+.icon-container:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+}
+
+.copyright-container {
+    display: inline-block;
+    margin-right: 0.5rem;
 }
