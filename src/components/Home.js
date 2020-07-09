@@ -22,7 +22,9 @@ class Home extends Component {
                         I'm from Berkeley, CA, but being on the East coast for school isn't so bad. 
                         Check out my hobbies and interests to learn more about me!
                     </p>
-                    
+                    <p class='career-status'>
+                        I am looking for a <b>full-time software engineering/data science role</b> starting <b>Fall 2021</b>.
+                    </p>
                 </div>
             </div>
         )
