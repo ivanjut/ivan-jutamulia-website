@@ -3,7 +3,7 @@
 }
 
 .profile-pic-container {
-    width: 40%;
+    width: 50%;
     display: inline-block;
     vertical-align: middle;
 }
@@ -15,7 +15,7 @@
 }
 
 .text-container {
-    width: 40%;
+    width: 50%;
     display: inline-block;
     vertical-align: middle;
 }
@@ -31,7 +31,7 @@
     border: 0px;
     background-color: rgb(158, 84, 233);
     color: white;
-    margin: 5%;
+    margin: 3%;
 }
 
 .route-button:hover {

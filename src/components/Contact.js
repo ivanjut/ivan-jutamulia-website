@@ -1,11 +1,15 @@
 import React, { Component } from 'react';
+import './Contact.css';
 
 
 class Contact extends Component {
 
     render() {
         return (
-            <h1>Contact</h1>
+            <div class='contact-container jumbotron'>
+                <h2 class="display-4">Contact</h2>
+                <hr class="my-4"/>
+            </div>
         )
     }
 
