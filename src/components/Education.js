@@ -11,35 +11,48 @@ class Education extends Component {
                 <hr class="my-4"/>
                 <div class='masters-container'>
                     <h4><b>Massachusetts Institute of Technology</b></h4>
-                    <h4>Master of Engineering</h4>
-                    <p>
-                        During the summer of 2017, I had the amazing opportunity to embark on a two-week long road trip around the 
-                        Western United States with some of my closest friends. In what became my most cherished travel experience ever, 
-                        my friends and I explored numerous national parks and drove through seven states. 
-                        This was such a special experience for me, that I made a video commemorating those memories forever. 
-                        In the future I plan to go on even more extravagant adventures, 
-                        and most importantly be able to share those adventures with the people I am closest to.
-                    </p>
+                    <h5><i>Master of Engineering in Computer Science and Artificial Intelligence</i> - May 2021</h5>
+                    <ul>
+                        <li>6.438 Algorithms for Inference</li>
+                        <li>6.860 Statistical Learning Theory and Applications</li>
+                        <li>6.864 Advanced Natural Language Processing</li>
+                        <li>6.883 Modeling with Machine Learning: From Algorithms to Applications</li>
+                    </ul>
                 </div>
                 <div class='bachelors-container'>
                     <h4><b>Massachusetts Institute of Technology</b></h4>
-                    <h4>Bachelor of Science</h4>
-                    <p>
-                        Soccer has been a passion of mine for as long as I can remember, and is an integral part of who I am. 
-                        I started playing when I was four years old, and have continued to play basically year-round for the rest of my life. 
-                        By the time I was in high school, I was the captain of my club soccer team as well as my high school team, 
-                        gaining valuable leadership skills along the way. After captaining the varsity team at MIT, I am now an assistant coach for the team.
-                    </p>
+                    <h5><i>Bachelor of Science in Computer Science and Engineering</i> (GPA: 5.0/5.0) - May 2020</h5>
+                    <h5><i>Minor in Statistics and Data Science</i></h5>
+                    <p class='classes'>Computer Science:</p>
+                    <ul>
+                        <li>6.004 Computation Structures</li>
+                        <li>6.006 Introduction to Algorithms</li>
+                        <li>6.009 Fundamentals of Programming</li>
+                        <li>6.031 Elements of Software Construction</li>
+                        <li>6.033 Computer Systems Engineering</li>
+                        <li>6.036 Introduction to Machine Learning</li>
+                        <li>6.046 Design and Analysis of Algorithms</li>
+                        <li>6.170 Software Studio: Web Applications</li>
+                        <li>6.419 Statistical Computation and Applications</li>
+                        <li>6.804 Computational Cognitive Science</li>
+                        <li>6.UAT Technical Oral Communication</li>
+                    </ul>
+                    <p class='classes'>Math:</p>
+                    <ul>
+                        <li>6.042 Discrete Mathematics for Computer Science</li>
+                        <li>6.008 Introduction to Inference</li>
+                        <li>18.06 Linear Algebra</li>
+                        <li>18.600 Probability and Random Variables</li>
+                        <li>18.650 Fundamentals of Statistics</li>
+                        <li>18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning</li>
+                    </ul>
                 </div>
                 <div class='high-school-container'>
                     <h4><b>Berkeley High School</b></h4>
-                    <h4>International Baccalaureate Diploma</h4>
-                    <p>
-                    I've been playing classical piano since I was four years old as a soloist, participating in certification tests as well as competitions. 
-                    While I always liked playing classical music, I've recently started to shift towards playing more popular modern songs that I listen to daily. 
-                    The musical aspect of my life is something I value greatly, and is something I hope to keep developing. 
-                    Below are a couple performances from the US Open competitions I participated in.
-                    </p>
+                    <h5><i>International Baccalaureate Diploma</i> (GPA: 4.0/4.0) - June 2016</h5>
+                    <ul>
+                        <li>IB/AP Computer Science</li>
+                    </ul>
                 </div>
             </div>
         )

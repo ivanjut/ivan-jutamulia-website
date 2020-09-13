@@ -1,3 +1,24 @@
 .aboutme-container {
     text-align: left;
 }
+
+#carousel-example-2 {
+    width: 60%;
+    margin: auto;
+}
+
+.carousel-inner {
+    height: 400px !important;
+}
+
+.roadtrip-video {
+    text-align: center;
+}
+
+.row {
+    
+}
+
+.col-md-4 {
+    /* height: 200px; */
+}
