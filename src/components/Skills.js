@@ -18,6 +18,7 @@ class Skills extends Component {
                         <li><b>SQL</b> - good experience, have used extensively in data projects</li>
                         <li><b>JavaScript</b> - good experience, used for web development</li>
                         <li><b>HTML and CSS</b> - significant experience</li>
+                        <li><b>LaTeX</b> - proficient and significant experience</li>
                     </ul>
                 </div>
 

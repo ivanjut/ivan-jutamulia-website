@@ -6,7 +6,6 @@ import AboutMe from './AboutMe';
 import Work from './Work';
 import Education from './Education';
 import Skills from './Skills';
-import Contact from './Contact';
 
 
 class Main extends Component {
@@ -20,7 +19,6 @@ class Main extends Component {
                     <Route path='/work' component={Work}/>
                     <Route path='/education' component={Education}/>
                     <Route path='/skills' component={Skills}/>
-                    <Route path='/contact' component={Contact}/>
                 </Switch>
                 
                 {/* <img src={logo} className="App-logo" alt="logo" />
