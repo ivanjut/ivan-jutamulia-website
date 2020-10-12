@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import './Home.css';
 import headshot from '../images/headshot.jpg';
+import resumePDF from '../docs/Ivan_Jutamulia_Resume.pdf';
 
 class Home extends Component {
 
@@ -16,7 +17,7 @@ class Home extends Component {
                     <div class='route-buttons'>
                         <Link to="/aboutme"><button class='route-button'>My Interests</button></Link>
                         <Link to="/work"><button class='route-button'>My Work</button></Link>
-                        <Link to="/resume"><button class='route-button'>My Resume</button></Link>
+                        <a href = {resumePDF} target = "_blank"><button class='route-button'>My Resume</button></a>
                     </div>
                     <p class='description'>I am currently an MEng. student at MIT studying computer science and artificial intelligence. 
                         I'm excited about machine learning and its applications in data analysis, and I love learning more about these topics. 

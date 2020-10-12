@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'jquery/dist/jquery.min';
 import 'bootstrap/dist/js/bootstrap.bundle';
 import '@fortawesome/fontawesome-free/css/all.min.css';
+import 'mdbreact/dist/css/mdb.css';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
