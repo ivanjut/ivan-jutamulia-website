@@ -45,18 +45,18 @@ class AboutMe extends Component {
                                         </p>
                                     </div>
 
-                                    <div id="carousel-example-2" class="carousel slide carousel-fade z-depth-1-half" data-ride="carousel">
-                                    <ol class="carousel-indicators">
+                                    <div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+                                    {/* <ol class="carousel-indicators">
                                         <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
                                         <li data-target="#carousel-example-2" data-slide-to="1"></li>
                                         <li data-target="#carousel-example-2" data-slide-to="2"></li>
                                         <li data-target="#carousel-example-2" data-slide-to="3"></li>
-                                    </ol>
+                                    </ol> */}
                                     <div class="carousel-inner" role="listbox">
                                         <div class="carousel-item active">
                                             <div class="view">
                                                 <img class="d-block w-100" src={craterlake} alt="First slide"/>
-                                                <div class="mask rgba-black-light"></div>
+                                                {/* <div class="mask rgba-black-light"></div> */}
                                             </div>
                                             {/* <div class="carousel-caption">
                                                 <h3 class="h3-responsive">Crater Lake</h3>
@@ -66,7 +66,7 @@ class AboutMe extends Component {
                                         <div class="carousel-item">
                                             <div class="view">
                                                 <img class="d-block w-100" src={zionquentin} alt="Second slide"/>
-                                                <div class="mask rgba-black-light"></div>
+                                                {/* <div class="mask rgba-black-light"></div> */}
                                             </div>
                                             {/* <div class="carousel-caption">
                                                 <h3 class="h3-responsive">Zion National Park</h3>
@@ -76,7 +76,7 @@ class AboutMe extends Component {
                                         <div class="carousel-item">
                                             <div class="view">
                                                 <img class="d-block w-100" src={grandcanyon1} alt="Third slide"/>
-                                                <div class="mask rgba-black-light"></div>
+                                                {/* <div class="mask rgba-black-light"></div> */}
                                             </div>
                                             {/* <div class="carousel-caption">
                                                 <h3 class="h3-responsive">Grand Canyon</h3>
@@ -86,7 +86,7 @@ class AboutMe extends Component {
                                         <div class="carousel-item">
                                             <div class="view">
                                                 <img class="d-block w-100" src={grandcanyon2} alt="Third slide"/>
-                                                <div class="mask rgba-black-light"></div>
+                                                {/* <div class="mask rgba-black-light"></div> */}
                                             </div>
                                             {/* <div class="carousel-caption">
                                                 <h3 class="h3-responsive">Grand Canyon</h3>

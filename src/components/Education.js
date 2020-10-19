@@ -11,8 +11,8 @@ class Education extends Component {
                 <hr class="my-4"/>
                 <div class='masters-container'>
                     <h4><b>Massachusetts Institute of Technology</b></h4>
-                    <h5><i>Master of Engineering in Computer Science and Artificial Intelligence</i> - May 2021</h5>
-                    <div id="accordion" class="py-5">
+                    <p><i>Master of Engineering in Computer Science and Artificial Intelligence</i> - May 2021</p>
+                    <div id="accordion" class="py-6">
                         <div class="card border-0">
                             <div class="card-header p-0 border-0" id="heading-239">
                                 <button class="btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-239" aria-expanded="false" aria-controls="#collapse-239"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>Relevant Courses</button>
@@ -29,13 +29,12 @@ class Education extends Component {
                             </div>
                         </div>
                     </div>
-                    
                 </div>
                 <div class='bachelors-container'>
                     <h4><b>Massachusetts Institute of Technology</b></h4>
-                    <h5><i>Bachelor of Science in Computer Science and Engineering</i> (GPA: 5.0/5.0) - May 2020</h5>
-                    <h5><i>Minor in Statistics and Data Science</i></h5>
-                    <div id="accordion" class="py-5">
+                    <p><i>Bachelor of Science in Computer Science and Engineering</i> (GPA: 5.0/5.0) - May 2020</p>
+                    <p><i>Minor in Statistics and Data Science</i></p>
+                    <div id="accordion" class="py-6">
                         <div class="card border-0">
                             <div class="card-header p-0 border-0" id="heading-240">
                                 <button class="btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-240" aria-expanded="false" aria-controls="#collapse-240"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>Relevant Courses</button>
@@ -74,8 +73,8 @@ class Education extends Component {
                 </div>
                 <div class='high-school-container'>
                     <h4><b>Berkeley High School</b></h4>
-                    <h5><i>International Baccalaureate Diploma</i> (GPA: 4.0/4.0) - June 2016</h5>
-                    <div id="accordion" class="py-5">
+                    <p><i>International Baccalaureate Diploma</i> (GPA: 4.0/4.0) - June 2016</p>
+                    <div id="accordion" class="py-6">
                         <div class="card border-0">
                             <div class="card-header p-0 border-0" id="heading-241">
                                 <button class="btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-241" aria-expanded="false" aria-controls="#collapse-241"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>Relevant Courses</button>
