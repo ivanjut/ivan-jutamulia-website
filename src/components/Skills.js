@@ -14,10 +14,11 @@ class Skills extends Component {
                     <h5>Programming:</h5>
                     <ul>
                         <li><b>Python</b> - proficient and significant experience, primary programming language</li>
-                        <li><b>Java</b> - limited experience, learned and used for a class at MIT (6.031)</li>
+                        <li><b>Rust</b> - good experience, secondary programming language currently</li>
+                        <li><b>JavaScript</b> - good experience, used for multiple web development projects</li>
+                        <li><b>HTML / CSS</b> - good experience</li>
                         <li><b>SQL</b> - good experience, have used extensively in data projects</li>
-                        <li><b>JavaScript</b> - good experience, used for web development</li>
-                        <li><b>HTML and CSS</b> - significant experience</li>
+                        <li><b>Java</b> - limited experience, learned and used for a class at MIT (6.031)</li>
                         <li><b>LaTeX</b> - proficient and significant experience</li>
                     </ul>
                 </div>
@@ -28,8 +29,8 @@ class Skills extends Component {
                         <li><b>Numpy</b> - proficient and significant experience</li>
                         <li><b>Pandas</b> - proficient and significant experience</li>
                         <li><b>Scikit-Learn</b> - proficient and significant experience</li>
+                        <li><b>PyTorch</b> - proficient and significant experience, primary ML library for current job</li>
                         <li><b>Tensorflow/Keras</b> - good experience, used in a few projects/work</li>
-                        <li><b>PyTorch</b> - limited experience, learned and used for a couple classes at MIT (6.804, 6.864)</li>
                         <li><b>AWS</b> - good experience</li>
                         <li><b>GCP</b> - good experience</li>
                         <li><b>Docker</b> - limited experience</li>

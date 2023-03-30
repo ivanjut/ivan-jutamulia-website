@@ -9,9 +9,11 @@ class Education extends Component {
             <div class='education-container jumbotron'>
                 <h2 class="display-4">Education</h2>
                 <hr class="my-4"/>
-                <div class='masters-container'>
+                <div class='mit-container'>
                     <h4><b>Massachusetts Institute of Technology</b></h4>
-                    <p><i>Master of Engineering in Computer Science and Artificial Intelligence</i> - May 2021</p>
+                    <p class="degrees"><i>Master of Engineering in Computer Science and Artificial Intelligence</i> (GPA: 5.0/5.0) - May 2021</p>
+                    <p class="degrees"><i>Bachelor of Science in Computer Science and Engineering</i> (GPA: 5.0/5.0) - May 2020</p>
+                    <p class="degrees"><i>Minor in Statistics and Data Science</i></p>
                     <div id="accordion" class="py-6">
                         <div class="card border-0">
                             <div class="card-header p-0 border-0" id="heading-239">
@@ -19,29 +21,7 @@ class Education extends Component {
                             </div>
                             <div id="collapse-239" class="collapse" aria-labelledby="heading-239" data-parent="#accordion">
                                 <div class="card-body accordion-body">
-                                    <ul>
-                                        <li>6.438 Algorithms for Inference</li>
-                                        <li>6.860 Statistical Learning Theory and Applications</li>
-                                        <li>6.864 Advanced Natural Language Processing</li>
-                                        <li>6.883 Modeling with Machine Learning: From Algorithms to Applications</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class='bachelors-container'>
-                    <h4><b>Massachusetts Institute of Technology</b></h4>
-                    <p><i>Bachelor of Science in Computer Science and Engineering</i> (GPA: 5.0/5.0) - May 2020</p>
-                    <p><i>Minor in Statistics and Data Science</i></p>
-                    <div id="accordion" class="py-6">
-                        <div class="card border-0">
-                            <div class="card-header p-0 border-0" id="heading-240">
-                                <button class="btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-240" aria-expanded="false" aria-controls="#collapse-240"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>Relevant Courses</button>
-                            </div>
-                            <div id="collapse-240" class="collapse" aria-labelledby="heading-240" data-parent="#accordion">
-                                <div class="card-body accordion-body">
-                                    <p class='classes'>Computer Science:</p>
+                                    <p class='classes'><b><u>Computer Science</u></b>:</p>
                                     <ul>
                                         <li>6.004 Computation Structures</li>
                                         <li>6.006 Introduction to Algorithms</li>
@@ -54,8 +34,12 @@ class Education extends Component {
                                         <li>6.419 Statistical Computation and Applications</li>
                                         <li>6.804 Computational Cognitive Science</li>
                                         <li>6.UAT Technical Oral Communication</li>
+                                        <li>6.438 Algorithms for Inference</li>
+                                        <li>6.860 Statistical Learning Theory and Applications</li>
+                                        <li>6.864 Advanced Natural Language Processing</li>
+                                        <li>6.883 Modeling with Machine Learning: From Algorithms to Applications</li>
                                     </ul>
-                                    <p class='classes'>Math:</p>
+                                    <p class='classes'><b><u>Math:</u></b></p>
                                     <ul>
                                         <li>6.042 Discrete Mathematics for Computer Science</li>
                                         <li>6.008 Introduction to Inference</li>
@@ -68,9 +52,8 @@ class Education extends Component {
                             </div>
                         </div>
                     </div>
-                    
-                    
                 </div>
+
                 <div class='high-school-container'>
                     <h4><b>Berkeley High School</b></h4>
                     <p><i>International Baccalaureate Diploma</i> (GPA: 4.0/4.0) - June 2016</p>

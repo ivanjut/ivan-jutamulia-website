@@ -2,8 +2,12 @@
     text-align: left;
 }
 
+.degrees {
+   margin-bottom: 0;
+}
+
 .classes {
-    margin-left: 2%;
+    margin-left: 0;
     margin-bottom: 0;
 }
 
@@ -70,3 +74,7 @@
     font-style: normal;
     color: #213744;
 }
+
+/* .card-body {
+    background-color: #213744;
+} */

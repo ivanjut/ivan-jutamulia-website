@@ -10,14 +10,8 @@
 main { 
   padding-top: 120px; 
   padding-bottom: 100px;
-  margin-left: 10%;
-  margin-right: 10%;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 /* .App-header {
@@ -34,12 +28,3 @@ main {
 .App-link {
   color: #61dafb;
 } */
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

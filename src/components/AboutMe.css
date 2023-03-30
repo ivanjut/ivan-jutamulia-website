@@ -2,8 +2,33 @@
     text-align: left;
 }
 
+#engineering-interests-container {
+    background-color: #213744;
+    color: #fff;
+    border-radius: 8px;
+    padding: 1%;
+}
+
+#coach-headshot-container {
+    width: 30%;
+    display: inline-block;
+    text-align: right;
+}
+
+#coach-headshot-image {
+    width: 80%;
+    height: 80%;
+    border-radius: 10%;
+}
+
+#what-i-do-text-container {
+    width: 65%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
 #carousel-example-2 {
-    width: 60%;
+    width: 70%;
     margin: auto;
 }
 

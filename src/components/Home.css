@@ -24,6 +24,10 @@
     text-align: left;
 }
 
+.thanks {
+    text-align: left;
+}
+
 .route-button {
     width: 120px;
     height: 120px;
@@ -38,6 +42,6 @@
     background-color: grey;
 }
 
-.career-status {
-    /* color: blue; */
-}
+/* .career-status {
+    color: blue;
+} */
