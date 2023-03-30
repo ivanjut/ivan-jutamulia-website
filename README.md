@@ -1,3 +1,18 @@
+This website is hosted at http://www.ivanjutamulia.com/
+<hr>
+
+# Deploy Process
+1. Before pushing to `master`, run:
+```
+npm run predeploy
+npm run deploy
+```
+2. Push updates to `master`.
+3. The push to `master` will kick off an automatic Heroku deploy, which can be monitored on the [Heroku app page](https://dashboard.heroku.com/apps/ivan-jutamulia-website). <b>Make sure the deploy succeeds!</b>
+4. Check to make sure the website was updated.
+
+
+# Development
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
