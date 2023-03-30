@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ivan-jutamulia-website.herokuapp.com",
+  "homepage": "https://ivanjut.github.io/ivan-personal-website",
   "name": "ivan-personal-website",
   "version": "0.2.0",
   "private": true,
@@ -45,6 +45,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.0.0"
+    "gh-pages": "^3.2.3"
   }
 }

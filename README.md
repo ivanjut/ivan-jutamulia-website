@@ -4,12 +4,11 @@ This website is hosted at http://www.ivanjutamulia.com/
 # Deploy Process
 1. Before pushing to `master`, run:
 ```
-npm run predeploy
 npm run deploy
 ```
-2. Push updates to `master`.
-3. The push to `master` will kick off an automatic Heroku deploy, which can be monitored on the [Heroku app page](https://dashboard.heroku.com/apps/ivan-jutamulia-website). <b>Make sure the deploy succeeds!</b>
-4. Check to make sure the website was updated.
+This will kick off a deploy in the `gh-pages` environment to the [GitHub Pages hosted URL](https://ivanjut.github.io/ivan-personal-website/).
+2. Check to make sure the website was updated.
+3. Push updates to `master`.
 
 
 # Development
