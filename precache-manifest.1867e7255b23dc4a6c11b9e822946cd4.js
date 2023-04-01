@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1628daac1e5a6e03e39d2437597f9651",
+    "revision": "007847108ae3729c7b18bd11fbc61c05",
     "url": "/ivan-jutamulia-website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ivan-jutamulia-website/static/css/2.9334b71b.chunk.css"
   },
   {
-    "revision": "60c39a10015c345c7a73",
+    "revision": "83a99ba0a8c1dccb61ca",
     "url": "/ivan-jutamulia-website/static/css/main.e62b928a.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ivan-jutamulia-website/static/js/2.76a2f558.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60c39a10015c345c7a73",
-    "url": "/ivan-jutamulia-website/static/js/main.70fcf8d7.chunk.js"
+    "revision": "83a99ba0a8c1dccb61ca",
+    "url": "/ivan-jutamulia-website/static/js/main.b7f8058f.chunk.js"
   },
   {
     "revision": "272c8adb2d61dbf07760",
     "url": "/ivan-jutamulia-website/static/js/runtime-main.d8db7886.js"
   },
   {
-    "revision": "3b1b904ab50b74c4d715f52e6b93a3dc",
-    "url": "/ivan-jutamulia-website/static/media/Ivan_Jutamulia_Resume.3b1b904a.pdf"
+    "revision": "0123fa0e69684c41171f09918eeb2e8a",
+    "url": "/ivan-jutamulia-website/static/media/Ivan_Jutamulia_Resume.0123fa0e.pdf"
   },
   {
     "revision": "11911410dca2de148f30954eb2fd5eab",

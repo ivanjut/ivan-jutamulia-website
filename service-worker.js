@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ivan-jutamulia-website/precache-manifest.f4460a45d9f6bab2fa1320c568cf65dc.js"
+  "/ivan-jutamulia-website/precache-manifest.1867e7255b23dc4a6c11b9e822946cd4.js"
 );
 
 self.addEventListener('message', (event) => {
