@@ -1,13 +1,15 @@
-This website is hosted at http://www.ivanjutamulia.com/
+This website is hosted at https://ivanjut.github.io/ivan-jutamulia-website/
 <hr>
 
 # Deploy Process
 1. Before pushing to `master`, run:
-```
-npm run deploy
-```
-This will kick off a deploy in the `gh-pages` environment to the [GitHub Pages hosted URL](https://ivanjut.github.io/ivan-personal-website/).
-2. Check to make sure the website was updated.
+    ```
+    npm run deploy
+    ```
+    This will kick off a deploy in the `gh-pages` environment to the GitHub Pages hosted URL.
+
+2. Check to make sure the website was updated.  The deploy may take a few minutes to succeed.
+
 3. Push updates to `master`.
 
 

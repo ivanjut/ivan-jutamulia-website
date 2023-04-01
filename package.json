@@ -1,7 +1,7 @@
 {
-  "homepage": "https://ivanjut.github.io/ivan-personal-website",
-  "name": "ivan-personal-website",
-  "version": "0.2.0",
+  "homepage": "https://ivanjut.github.io/ivan-jutamulia-website",
+  "name": "ivan-jutamulia-website",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
