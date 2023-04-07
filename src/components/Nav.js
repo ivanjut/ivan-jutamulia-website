@@ -15,19 +15,19 @@ class Nav extends Component {
                 </button>
 
                 <div className="collapse navbar-collapse mx-auto justify-content-center">
-                    <Link to='/ivan-jutamulia-website' className="navbar-brand">Ivan Jutamulia</Link>
+                    <Link to='/website' className="navbar-brand">Ivan Jutamulia</Link>
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <Link to='/ivan-jutamulia-website/aboutme' className="nav-link">About Me</Link>
+                            <Link to='/website/aboutme' className="nav-link">About Me</Link>
                         </li>
                         <li className="nav-item">
-                            <Link to='/ivan-jutamulia-website/work' className="nav-link">Work</Link>
+                            <Link to='/website/work' className="nav-link">Work</Link>
                         </li>
                         <li className="nav-item">
-                            <Link to='/ivan-jutamulia-website/education' className="nav-link">Education</Link>
+                            <Link to='/website/education' className="nav-link">Education</Link>
                         </li>
                         <li className="nav-item">
-                            <Link to='/ivan-jutamulia-website/skills' className="nav-link">Skills</Link>
+                            <Link to='/website/skills' className="nav-link">Skills</Link>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href = {resumePDF} target = "_blank">Resume</a>

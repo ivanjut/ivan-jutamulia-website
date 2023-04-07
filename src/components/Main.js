@@ -14,11 +14,11 @@ class Main extends Component {
         return (
             <main>
                 <Switch>
-                    <Route exact path='/ivan-jutamulia-website' component={Home}/>
-                    <Route path='/ivan-jutamulia-website/aboutme' component={AboutMe}/>
-                    <Route path='/ivan-jutamulia-website/work' component={Work}/>
-                    <Route path='/ivan-jutamulia-website/education' component={Education}/>
-                    <Route path='/ivan-jutamulia-website/skills' component={Skills}/>
+                    <Route exact path='/website' component={Home}/>
+                    <Route path='/website/aboutme' component={AboutMe}/>
+                    <Route path='/website/work' component={Work}/>
+                    <Route path='/website/education' component={Education}/>
+                    <Route path='/website/skills' component={Skills}/>
                 </Switch>
             </main>
         )
