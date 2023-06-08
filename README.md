@@ -1,4 +1,4 @@
-This website is hosted at https://ivanjut.github.io/website/
+This website is hosted at https://www.ivanjutamulia.com/
 <hr>
 
 # Deploy Process
