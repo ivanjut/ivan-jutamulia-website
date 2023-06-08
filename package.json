@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ivanjut.github.io/website",
-  "name": "website",
+  "homepage": "https://ivanjut.github.io",
+  "name": "ivan-jutamulia-website",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
