@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9afffadac6c6fc6791f7cee9402ec476",
+    "revision": "02b0cb4c08fae2595371906f75743838",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.956c11d2.chunk.css"
   },
   {
-    "revision": "a5778823e996919d4298",
+    "revision": "9a93c6e12de34d5ff6cb",
     "url": "/static/css/main.e62b928a.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.76a2f558.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5778823e996919d4298",
-    "url": "/static/js/main.e7bf1af1.chunk.js"
+    "revision": "9a93c6e12de34d5ff6cb",
+    "url": "/static/js/main.e45934ee.chunk.js"
   },
   {
     "revision": "25591330ca48ace54494",
     "url": "/static/js/runtime-main.bb13a9d2.js"
   },
   {
-    "revision": "1af98e4420f3ac0887abbb7ff2008741",
-    "url": "/static/media/Ivan_Jutamulia_Resume.1af98e44.pdf"
+    "revision": "fd511a14f7cc3cff5c4e745a81bf4dcd",
+    "url": "/static/media/Ivan_Jutamulia_Resume.fd511a14.pdf"
   },
   {
     "revision": "11911410dca2de148f30954eb2fd5eab",
