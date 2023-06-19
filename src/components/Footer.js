@@ -11,12 +11,10 @@ class Footer extends Component {
             <footer class='footer'>
                 <div class='container'>
                     <div class='footer-item' id='phone-container'>
-                        <div class='icon-container'><FiPhoneCall class='icon'/></div>
-                        (510) 332 - 9501
+                        <FiPhoneCall class='icon'/> (510) 332 - 9501
                     </div>
                     <div class='footer-item' id='email-container'>
-                        <div class='icon-container'><FiMail class='icon'/></div>
-                        jutamuliaivan@gmail.com
+                        <FiMail class='icon'/> jutamuliaivan@gmail.com
                     </div>
                     <div class='footer-item' id='social-media-container'>
                         <div class='icon-container' onClick={()=> window.open("http://github.com/ivanjut")}>

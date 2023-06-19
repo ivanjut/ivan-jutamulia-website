@@ -22,25 +22,18 @@
 
 .icon-container {
     display: inline-block;
-    /* background: #99ccff; */
     background: darkgray;
-    padding: 10px;
-    width: 50px;
-    height: 50px;
+    padding: 1px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%;
-    vertical-align: middle;
     margin-right: 0.5rem;
     transition: 0.25s;
 }
 
 .icon-container:hover {
     cursor: pointer;
-    transform: scale(1.2);
-}
-
-.icon {
-    width: 25px;
-    height: 25px;
+    transform: scale(1.1);
 }
 
 .copyright-container {
